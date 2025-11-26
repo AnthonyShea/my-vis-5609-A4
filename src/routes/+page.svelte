@@ -419,9 +419,9 @@
 
 <div class="controls-info">
   <h3>Controls</h3>
-  <p>🖱️ Click and drag left/right to scroll</p>
-  <p>⌨️ Use arrow keys ← → to scroll</p>
-  <p>📊 Showing {Object.keys(movieData || {}).length} genres</p>
+  <p>Click and drag left/right to scroll</p>
+  <p>Use arrow keys ← → to scroll</p>
+  <p>Showing {Object.keys(movieData || {}).length} genres</p>
 </div>
 
 <style>
